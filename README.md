@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: KnowX client. Upload content and read an org's knowledge without managing multipart sessions or cursors.
-- Application code needs the knowx-sdk client surface while the implementation or remote service remains a separate dependency.
+- Upload content through the client without managing each multipart-session step.
+- Read an organization's knowledge records through the supported client methods.
 
 ## Links
 
