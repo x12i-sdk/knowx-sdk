@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/knowx-sdk",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/knowx-sdk",
+  "usageRepository": "https://github.com/x12i-sdk/knowx-sdk",
+  "sourceRepository": "https://github.com/x12i/opx-knowx-mono-repo",
+  "sourceCommit": "81de1886ba2fca116bfe0e9686fd0af063ef1517",
+  "sourcePackageDirectory": "knowx-sdk",
+  "example": {
+    "title": "Ensure a knowledge library using an injected HTTP fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:15:02.827610+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "dcd3ab5af8831d9c45c52584f1894a7ab63d7ca11f9b99b4c74b41e6d2f34581",
+    "manifestSha256": "74c01084bcb927e1842e7ec2cb2f04ca8e00997a959307fef008bfd2bd35aa2c"
+  }
+}
